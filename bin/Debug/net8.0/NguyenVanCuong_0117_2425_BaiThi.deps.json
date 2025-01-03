@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NguyenVanCuong_0117_2425_BaiThi/1.0.0": {
+        "runtime": {
+          "NguyenVanCuong_0117_2425_BaiThi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NguyenVanCuong_0117_2425_BaiThi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
